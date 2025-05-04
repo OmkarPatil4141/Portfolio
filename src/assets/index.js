@@ -39,6 +39,8 @@ import tripguide from "./tripguide.png";
 import natours from "./natours.png"
 import cicd from "./CICD.png"
 import devsecops from "./devsecops.png"
+import profile from "./Profile.jpg"
+
 
 
 export {
@@ -76,5 +78,6 @@ export {
   cicd,
   devsecops,
   fictiv,
-  cc
+  cc,
+ profile
 };
